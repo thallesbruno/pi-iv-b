@@ -1,0 +1,16 @@
+# Arquivos gerados pela compilação Java
+*.class
+/build/
+/target/
+/out/
+
+# Configurações locais de IDEs
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
